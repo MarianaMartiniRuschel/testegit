@@ -1,1 +1,2 @@
 1 Esse é o foo.txt
+2 Isso é uma edição de Mariana
